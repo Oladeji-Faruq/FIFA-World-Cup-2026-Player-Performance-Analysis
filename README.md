@@ -76,4 +76,6 @@ It allows the user to explore player information and performance metrics through
 
 
 Dashboard: [FIFA World Cup 2026 Player Performance Dashboard](Fifa_Dashboard.jpg)
+
+
 Interactive Dashboard: https://datastudio.google.com/reporting/2efb988b-62b7-4c67-9952-a7a8ea8d6485
