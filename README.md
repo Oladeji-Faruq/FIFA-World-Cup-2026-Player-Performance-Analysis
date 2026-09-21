@@ -1,4 +1,4 @@
-**⚽FIFA-World-Cup-2026-Player-Performance-Analysis**
+**⚽FIFA World Cup 2026 Player Performance Analysis**
 
 **📊Project Overview**
 
